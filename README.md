@@ -9,7 +9,4 @@ I'm currently learning ...everything I can
 </div>
 <br/>
 
-<div align="center">
-<img src="https://alphaville.github.io/optimization-engine/img/docker.gif"/>
-</div>
 
